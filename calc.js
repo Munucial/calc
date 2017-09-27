@@ -33,3 +33,11 @@ function multiple(num1, num2, items) {
   }
   return result;
 }
+
+function factor(num1, num2, items) {
+  var result = [];
+  if (num2) {
+  } else {
+  }
+  return result;
+}
