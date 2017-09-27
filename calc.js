@@ -26,7 +26,7 @@ function divide(num1, nums) {
   return result;
 }
 
-function multiple(num1, num2, items) {
+function multiple(num1, items, num2) {
   var result = [];
   if (num2) {
   } else {
@@ -34,7 +34,7 @@ function multiple(num1, num2, items) {
   return result;
 }
 
-function factor(num1, num2, items) {
+function factor(num1, items, num2) {
   var result = [];
   if (num2) {
   } else {
