@@ -25,3 +25,11 @@ function divide(num1, nums) {
   result /= times(nums);
   return result;
 }
+
+function multiple(num1, num2, items) {
+  var result = [];
+  if (num2) {
+  } else {
+  }
+  return result;
+}
